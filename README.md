@@ -1,0 +1,1 @@
+This project is a Power BI dashboard that visualizes Flipkart’s sales data, providing key insights into various business aspects. The dashboard consists of clear and interactive visuals designed to help stakeholders make data-driven decisions.
